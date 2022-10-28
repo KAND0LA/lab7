@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: #EDDDD0;
 }
 
 h1{
@@ -15,7 +15,13 @@ p{
 
 #topnav{
     text-align: center;
-    background-color: lightblue;
+    background-color: #A6CAD4;
 }
+
+.footer{
+    text-align: center;
+    background-color: #A6CAD4;
+}
+
 
 
