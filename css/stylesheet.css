@@ -71,6 +71,7 @@ p{
     .nav{
       flex-direction: row;
       justify-content: center;
+      list-style-type: none;
     }
   }
 
